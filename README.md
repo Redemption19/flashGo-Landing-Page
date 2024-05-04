@@ -36,4 +36,4 @@ Contributions are welcome! Feel free to suggest improvements or new features by 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-[Your Name](https://github.com/yourusername) - [Twitter](https://twitter.com/yourtwitter) - [LinkedIn](https://linkedin.com/in/yourlinkedin)
+Bismark Abban(https://github.com/Redemption19) - [Instagram](https://www.instagram.com/bismark.abban/) - [LinkedIn](https://www.linkedin.com/in/bismark-abban-256055193/)
