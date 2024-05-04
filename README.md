@@ -1,7 +1,7 @@
 # My Ride-Hailing App Landing Page
 
 ## Description
-This repository contains the landing page website for FlashGo App. It serves as the online portal for users to learn about the features and benefits of your ride-hailing service, as well as to sign up or download the app.
+This repository contains the landing page website for [Your Ride-Hailing App Name]. It serves as the online portal for users to learn about the features and benefits of your ride-hailing service, as well as to sign up or download the app.
 
 ## Features
 - **Attractive Design**: A visually appealing and user-friendly design to engage visitors.
@@ -36,7 +36,4 @@ Contributions are welcome! Feel free to suggest improvements or new features by 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-Bismark Abban
-
-## Acknowledgments
-Special thanks to [Template Author/Source] for providing the initial template or inspiration for this landing page.
+[Your Name](https://github.com/yourusername) - [Twitter](https://twitter.com/yourtwitter) - [LinkedIn](https://linkedin.com/in/yourlinkedin)
