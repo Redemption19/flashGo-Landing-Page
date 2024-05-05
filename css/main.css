@@ -2694,7 +2694,7 @@ footer ul a:visited {
   border: none;
   width: 93px;
   height: 21px;
-  background: url("../images/logo.png") no-repeat center;
+  background: url("../images/FlashGo.png") no-repeat center;
   background-size: 93px 21px;
   font: 0/0 a;
   text-shadow: none;
@@ -2702,6 +2702,19 @@ footer ul a:visited {
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
+
+.coming-soon {
+  display: block; /* Change display to block */
+  background-color: #000000; /* Your desired background color */
+  color: #fff; /* Text color */
+  padding: 5px 10px; /* Adjust padding as needed */
+  border-radius: 5px; /* Add rounded corners */
+  font-weight: bold; /* Make the text bold */
+  font-size: 14px; /* Adjust font size as needed */
+  text-align: center; /* Center the text horizontally */
+  margin-left: auto; /* Move the text to the right */
+}
+
 
 .footer-social-list {
   font-size: 1.8rem;
