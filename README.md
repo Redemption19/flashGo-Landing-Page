@@ -13,7 +13,9 @@ This repository contains the landing page website for [Your Ride-Hailing App Nam
 - **Contact Information**: Contact details or support options for users to reach out for assistance.
 
 ## Screenshots
-![Screenshot](screenshot.png)
+
+## START AND END TRIP SCREEN
+
 
 ## Technologies Used
 - HTML5
