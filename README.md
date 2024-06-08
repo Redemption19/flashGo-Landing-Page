@@ -26,6 +26,7 @@ This repository contains the landing page website for `FlashGo Mobile App`. It s
 ## Driver Login Screen
 
 ## Booking a Ride Screem
+![Booking ride (1)](https://github.com/Redemption19/flashGo-Landing-Page/assets/56071671/2747ddfb-c764-4898-b97d-af69e41f98c9)
 
 ## Driver Rating Screen
 
