@@ -31,6 +31,7 @@ This repository contains the landing page website for `FlashGo Mobile App`. It s
 ## Tracking Ride Screen
 
 ## Driver Accepting or Cancelling Passenger Request Screen
+![accepting and cancelling ride](https://github.com/Redemption19/flashGo-Landing-Page/assets/56071671/ff105b7e-be7b-4ea9-901e-79784bdc12d8)
 
 ## Navigate to DropOff point Screen
 
