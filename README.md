@@ -15,6 +15,8 @@ This repository contains the landing page website for `FlashGo Mobile App`. It s
 ## Screenshots
 
 ## User Registration Screen
+![User registration](https://github.com/Redemption19/flashGo-Landing-Page/assets/56071671/6b42f182-f036-49a4-9e02-68a8ca033dae)
+
 
 ## User Login Screen
 
