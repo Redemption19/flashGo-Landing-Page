@@ -1,4 +1,4 @@
-# My Ride-Hailing App Landing Page
+# FlashGo Ride-Hailing App Landing Page
 
 ## Description
 This repository contains the landing page website for `FlashGo Mobile App`. It serves as the online portal for users to learn about the features and benefits of your ride-hailing service, as well as to sign up or download the app.
