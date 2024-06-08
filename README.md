@@ -14,8 +14,28 @@ This repository contains the landing page website for [Your Ride-Hailing App Nam
 
 ## Screenshots
 
+## User Registration Screen
+
+## User Login Screen
+
+## Driver Registration Screen
+
+## Driver Login Screen
+
+## Booking a Ride Screem
+
+## Driver Rating Screen
+
+## Tracking Ride Screen
+
+## Driver Accepting or Cancelling Passenger Request Screen
+
+## Navigate to DropOff point Screen
+
 ## Start and End Trip Screen
 ![Start and end trip](https://github.com/Redemption19/flashGo-Landing-Page/assets/56071671/62f19d0f-08ba-4cfa-8240-d5c60a53c60e)
+
+## View Earnings Screen
 
 ## Technologies Used
 - HTML5
