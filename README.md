@@ -14,7 +14,7 @@ This repository contains the landing page website for [Your Ride-Hailing App Nam
 
 ## Screenshots
 
-## START AND END TRIP SCREEN
+## Start and End Trip
 ![Start and end trip](https://github.com/Redemption19/flashGo-Landing-Page/assets/56071671/62f19d0f-08ba-4cfa-8240-d5c60a53c60e)
 
 ## Technologies Used
